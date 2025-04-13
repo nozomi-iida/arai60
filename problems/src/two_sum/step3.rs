@@ -10,7 +10,7 @@
 
 /*
   時間計算量: O(n)
-  空間計算量:
+  空間計算量: O(n)
 */
 
 pub struct Solution;
